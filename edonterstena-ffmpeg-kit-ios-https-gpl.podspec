@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.requires_arc      = true
   s.static_framework  = true
 
-  s.source       = { :http => "https://github.com/edonterstena/ffmpeg-kit/releases/download/v6.0.LTS-edonterstena/ffmpeg-6.0-xcframework.zip"}
+  s.source       = { :http => "https://github.com/edonterstena/ffmpeg-kit/releases/download/v6.0.2-edonterstena/ffmpeg-6.0-xcframework.zip"}
 
   s.libraries = [
     "z",
