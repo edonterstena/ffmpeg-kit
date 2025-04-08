@@ -2,7 +2,7 @@ require "json"
 
 Pod::Spec.new do |s|
   s.name         = "edonterstena-ffmpeg-kit-ios-https-gpl"
-  s.version      = "6.0.LTS"
+  s.version      = "6.0"
   s.summary      = "FFmpeg Kit iOS Https Shared Framework"
   s.description  = "Includes FFmpeg with gmp and gnutls libraries enabled."
   s.homepage     = "https://github.com/edonterstena/ffmpeg-kit"
